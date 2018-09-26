@@ -192,7 +192,7 @@
       "type": "Damaging",
       "spec": "Path of Vaul",
       "minrank": "4",
-      "cost": "Costs 30 AP",
+      "cost": "Costs 130 AP",
       "range": "100ft range",
       "incant": "2.0s cast",
       "cooldown": "No cooldown",
@@ -213,8 +213,7 @@
       "incant": "Passive",
       "cooldown": "No cooldown",
       "note": "",
-      "description": "Your Healing Energy is 35% more effective on other people, but 15% less effective on you.",
-      "category": "CareerTactic"
+      "description": "Ramasee is testing changes to these files.": "CareerTactic"
     },
   
     {
